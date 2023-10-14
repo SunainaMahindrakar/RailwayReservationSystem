@@ -10,5 +10,6 @@ MongoDB
 NoSQL
 Jupyter Notebook
 
-Run the code blocks in the notebook in the order to see the result.
-Refer: Report.pdf for more details
+Run the code blocks in the notebook in order to see the result.
+
+Refer to Report.pdf for more details
